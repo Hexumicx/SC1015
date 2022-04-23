@@ -2,7 +2,7 @@
 
 ## About
 
-This is a Mini-Project for CS1015 in which we try to predict the biggest cryptocurrency, Bitcoin and we further tested our model's capabilities on smaller cryptocurrency, Dogecoin.
+This is a Mini-Project for SC1015 in which we try to predict the biggest cryptocurrency, Bitcoin and we further tested our model's capabilities on smaller cryptocurrency, Dogecoin.
 
 ## Problem Definition
 
