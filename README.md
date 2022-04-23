@@ -32,7 +32,7 @@ This is a Mini-Project for CS1015 in which we try to predict the biggest cryptoc
 
 ## Members
 - Yuan Hao:  Data cleaning, EDA on sample data, Script drafting
-- @Hexumcix: Linear regression, LSTM RNN modeling, prediction on test sets, Script drafting
+- @Hexumicx: Linear regression, LSTM RNN modeling, prediction on test sets, Script drafting
 - Jun Kai: Analysis of simulated trading on test sets, Script, Presentation
 
 
