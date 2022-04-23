@@ -15,7 +15,7 @@ This is a Mini-Project for CS1015 in which we try to predict the biggest cryptoc
 2. Long Short-term memory Neural Networks
 
 ## Conclusion
-
+- Although linear regression has a good R^2 and MSE, it does not translate to a profit
 
 ## What did we learn from this project?
 - Neural Networks, Keras and Tensorflow
