@@ -2,7 +2,7 @@
 
 ## About
 
-This is a Mini-Project for CS1015 in which we try to predict the biggest cryptocurrency, Bitcoin.
+This is a Mini-Project for CS1015 in which we try to predict the biggest cryptocurrency, Bitcoin and we further tested our model's capabilities on smaller cryptocurrency, Dogecoin.
 
 ## Problem Definition
 
@@ -16,5 +16,14 @@ This is a Mini-Project for CS1015 in which we try to predict the biggest cryptoc
 
 ## Conclusion
 
+
+## What did we learn from this project?
+- Neural Networks, Keras and Tensorflow
+- Using Plotly to visualise candlestick plot
+
+
+## Contents
+- Datasets: The data sets that have been used in the project
+- MiniProj: Code for Mini Project
 
 
