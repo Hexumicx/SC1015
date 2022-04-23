@@ -1,1 +1,1 @@
-# SC1015
+# Predicting the crypto market
