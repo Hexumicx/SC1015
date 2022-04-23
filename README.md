@@ -16,6 +16,10 @@ This is a Mini-Project for CS1015 in which we try to predict the biggest cryptoc
 
 ## Conclusion
 - Although linear regression has a good R^2 and MSE, it does not translate to a profit
+- Neural networks are more accurate in terms of predicting the overall trend to result in a net profit
+- Although large number of neurons in hidden layer improves accuracy, the time taken for larger number of neurons in hidden layers is much greater
+- Neural network model is more accurate on Bitcoin over Dogecoin
+- It is still very possible to have multiple losing trades in row which can wipe out capital even if over a longer period it is profitable (Risk Management is still important)
 
 ## What did we learn from this project?
 - Neural Networks, Keras and Tensorflow
