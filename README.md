@@ -30,4 +30,9 @@ This is a Mini-Project for CS1015 in which we try to predict the biggest cryptoc
 - Datasets: The data sets that have been used in the project
 - MiniProj: Code for Mini Project
 
+## Members
+- Yuan Hao:  Data cleaning, EDA on sample data, Script drafting
+- Jonathan: Linear regression, LSTM RNN modeling, prediction on test sets, Script drafting
+- Jun Kai: Analysis of simulated trading on test sets, Script, Presentation
+
 
