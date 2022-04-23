@@ -27,7 +27,7 @@ This is a Mini-Project for SC1015 in which we try to predict the biggest cryptoc
 
 
 ## Contents
-- Datasets: The data sets that have been used in the project
+- Dataset: The data sets that have been used in the project
 - MiniProj: Code for Mini Project
 
 ## Members
