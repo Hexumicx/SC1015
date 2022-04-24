@@ -24,6 +24,7 @@ This is a Mini-Project for SC1015 in which we try to predict the biggest cryptoc
 ## What did we learn from this project?
 - Neural Networks, Keras and Tensorflow
 - Using Plotly to visualise candlestick plot
+- Using scaler to manipulate data for better sensitivity with neural networks
 
 
 ## Contents
