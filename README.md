@@ -32,7 +32,7 @@ This is a Mini-Project for SC1015 in which we try to predict the biggest cryptoc
 - MiniProj: Code for Mini Project
 
 ## Members
-- Yuan Hao:  Data cleaning, EDA on sample data, Script drafting
+- [@lolmode]:  Data cleaning, EDA on sample data, Script drafting
 - [@Hexumicx](https://github.com/Hexumicx): Linear regression, LSTM RNN modeling, prediction on test sets, Script drafting
 - Jun Kai: Analysis of simulated trading on test sets, Script, Presentation
 
